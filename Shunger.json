@@ -1,0 +1,7 @@
+{
+    "name": "Shunger",
+    "description": "远程订阅本人自用",
+    "task": [
+        "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+    ]
+}
